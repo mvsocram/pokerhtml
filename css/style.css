@@ -1,0 +1,205 @@
+body {
+    font-family: 'Bebas Neue', cursive;
+    background-color: #bbf0f3;
+    background-image: linear-gradient(315deg, #bbf0f3 0%, #f6d285 74%);
+}
+
+p {
+  text-align:center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.contenedor {
+    background-color: #ffffff;
+    background-image: linear-gradient(315deg, #ffffff 0%, #91a6ff 74%);
+    padding: 10;
+    margin: 0.5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+body nav {
+    background-color: #ffffb5;
+    background-image: linear-gradient(315deg, #ffffb5 0%, #247ba0 74%);
+    
+        padding: 0px;
+        margin: 0.5%
+}
+
+.menu{
+    display:flex;
+    justify-content: center;
+    list-style: none;
+}
+
+.menu a{
+    display: flex;
+    justify-content: center;
+    color: #232727;
+    text-decoration: rgb(15, 15, 15);
+    padding: 2rem
+}
+.menu a:hover {
+    background-color: #dae6e6;
+}
+
+body {
+    font-family: 'Bebas Neue', cursive;
+    background-color: #bbf0f3;
+    background-image: linear-gradient(315deg, #bbf0f3 0%, #f6d285 74%);
+}
+
+.contacto1 {
+    background-color: #ffffff;
+    background-image: linear-gradient(315deg, #ffffff 0%, #91a6ff 74%);
+    padding: 5;
+    margin: 0.5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    font-size: 60px;
+    font-family: 'Bebas Neue', cursive;
+    font-family:Georgia, 'Times New Roman', Times, serif 
+}
+
+body nav {
+    background-color: #ffffb5;
+    background-image: linear-gradient(315deg, #ffffb5 0%, #247ba0 74%);
+    
+        padding: 0px;
+        margin: 0.5%
+}
+
+.menu{
+    display:flex;
+    justify-content: center;
+    list-style: none;
+}
+
+.menu a{
+    display: flex;
+    justify-content: center;
+    color: #232727;
+    text-decoration: rgb(15, 15, 15);
+    padding: 2rem
+}
+.menu a:hover {
+    background-color: #dae6e6;
+}
+
+body {
+    font-family: 'Bebas Neue', cursive;
+    background-color: #bbf0f3;
+    background-image: linear-gradient(315deg, #bbf0f3 0%, #f6d285 74%);
+    
+}
+
+.invierno2023 {
+
+    background-color: #ffffff;
+    background-image: linear-gradient(315deg, #ffffff 0%, #91a6ff 74%);
+    padding: 5;
+    margin: 0.5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    font-size: 60px;
+    font-family: 'Bebas Neue', cursive;
+    font-family:Georgia, 'Times New Roman', Times, serif 
+}
+
+body nav {
+    background-color: #ffffb5;
+    background-image: linear-gradient(315deg, #ffffb5 0%, #247ba0 74%);
+    
+        padding: 0px;
+        margin: 0.5%
+}
+
+.menu{
+    display:flex;
+    justify-content: center;
+    list-style: none;
+}
+
+.menu a{
+    display: flex;
+    justify-content: center;
+    color: #232727;
+    text-decoration: rgb(15, 15, 15);
+    padding: 2rem
+}
+.menu a:hover {
+    background-color: #dae6e6;
+}
+
+body {
+    font-family: 'Bebas Neue', cursive;
+    background-color: #bbf0f3;
+    background-image: linear-gradient(315deg, #bbf0f3 0%, #f6d285 74%);
+}
+.style2 {
+    background-color: #ffffff;
+    background-image: linear-gradient(315deg, #ffffff 0%, #91a6ff 74%);
+    padding: 5;
+    margin: 0.5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    font-size: 60px;
+    font-family: 'Bebas Neue', cursive;
+    font-family:Georgia, 'Times New Roman', Times, serif 
+}
+
+body nav {
+    background-color: #ffffb5;
+    background-image: linear-gradient(315deg, #ffffb5 0%, #247ba0 74%);
+    
+        padding: 0px;
+        margin: 0.5%
+}
+
+.menu{
+    display:flex;
+    justify-content: center;
+    list-style: none;
+}
+
+.menu a{
+    display: flex;
+    justify-content: center;
+    color: #232727;
+    text-decoration: rgb(15, 15, 15);
+    padding: 2rem
+}
+.menu a:hover {
+    background-color: #dae6e6;
+}
+
+.fotos {
+    display:flex;
+    justify-content: center;
+    list-style: none;
+}
+
+.fotos {
+
+    padding: 5;
+    margin: 0.80%;
+    display: flex;
+
+}
+
+
+
